@@ -1,0 +1,54 @@
+					<div class="col-md-6">
+						<div class="large-box br-grey">
+							<div class="pad">
+								<!-- Pricing Table -->
+								<div class="ptable table-responsive">
+									<!-- Pricing table heading -->
+									<h5><i class="fa fa-table"></i> &nbsp;Programming Skills</h5>
+									<table class="table table-bordered">
+										<tr class="br-lblue">
+											<!-- Table column heading -->
+											<th>Language</th>
+											<th>Level</th>
+											<th>Score</th>
+										</tr>
+										<tr>
+											<!-- Column details -->
+											<td>C</td>
+											<td>Expert</td>
+											<td>7/10</td>
+										</tr>
+										<tr>
+											<td>C++</td>
+											<td>Expert</td>
+											<td>7/10</td>
+										</tr>
+										<tr>
+											<td>Java</td>
+											<td>Intermediate</td>
+											<td>6/10</td>
+										</tr>
+										<tr>
+											<td>Python</td>
+											<td>Intermediate</td>
+											<td>6/10</td>
+										</tr>
+										
+										<tr>
+											<td>Web(HTML/CSS)</td>
+											<td style="align:left">Intermediate</td>
+											<td>7/10</td>
+										</tr>										
+										<tr>
+
+										</tr>
+									</table>
+								</div>
+							</div>
+						</div>					
+					</div>
+					<div class="col-md-6">
+					<div class="medium-box br-grey" >
+						<div id="chart_div" ></div>
+					</div>
+					</div>
